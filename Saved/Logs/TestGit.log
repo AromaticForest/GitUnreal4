@@ -728,3 +728,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.17-04.55.26:705][997]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2021.06.17-04.55.26:705][997]SourceControl:  create mode 100644 Content/NewBlueprint.uasset
 [2021.06.17-04.55.26:711][997]SourceControl: 已提交 [master 1b1e515] Test。
+[2021.06.17-05.03.39:120][498]LogSlate: Window '选取父类' being destroyed
+[2021.06.17-05.03.46:193][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewPawn" FILE="../../../../../../../GitUnreal/TestGit/Content/NewPawn.uasset" SILENT=true
+[2021.06.17-05.03.46:197][309]LogSavePackage: Moving '../../../../../../../GitUnreal/TestGit/Saved/NewPawn691AFC844C59AD82FBD894B5C4279A9E.tmp' to '../../../../../../../GitUnreal/TestGit/Content/NewPawn.uasset'
+[2021.06.17-05.03.46:399][309]AssetCheck: New page: 资产保存：NewPawn
+[2021.06.17-05.03.46:399][309]LogContentValidation: Display: 正在验证Blueprint /Game/NewPawn.NewPawn
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.48:659][529]SourceControl: fatal: D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/GitUnreal/TestGit'
+[2021.06.17-05.03.56:322][529]LogSlate: Window '提交文件' being destroyed
+[2021.06.17-05.03.56:874][529]LogSourceControl: commit successful: [master 4311190] NewPawn
+[2021.06.17-05.03.56:929][529]SourceControl: [master 4311190] NewPawn
+[2021.06.17-05.03.56:929][529]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.06.17-05.03.56:929][529]SourceControl:  create mode 100644 Content/NewPawn.uasset
+[2021.06.17-05.03.56:934][529]SourceControl: 已提交 [master 4311190] NewPawn。
